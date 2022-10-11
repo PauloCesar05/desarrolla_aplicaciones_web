@@ -3,7 +3,7 @@
     $server = "localhost";
     $user = "root";
     $password = "";
-    $database = "practica_web";
+    $database = "practicaweb";
 
     $conexion = new mysqli($server, $user, $password, $database);
 
